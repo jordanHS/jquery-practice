@@ -1,0 +1,13 @@
+body {
+  color: green;
+}
+#lorem-ipsum {
+  cursor: pointer;
+  color: #0088cc;
+}
+#lorem-ipsum:hover {
+  text-decoration: underline;
+}
+#using-loremipsum {
+  display: none;
+}
